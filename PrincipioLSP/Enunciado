@@ -1,0 +1,25 @@
+ Exercício: Sistema de Animais no Zoológico
+Você foi contratado para modelar um sistema de controle de animais para um zoológico. A equipe de biologia deseja cadastrar diferentes tipos de animais, como mamíferos, aves e répteis, e precisa que todos os animais do zoológico possam:
+
+Ser alimentados
+
+Emitir sons característicos
+
+Mover-se pelo ambiente
+
+A equipe de TI criou uma classe abstrata Animal para representar esse comportamento comum, e diversas classes concretas herdando dela.
+
+Porém, ao tentar criar a classe Ave, percebe-se que ela possui comportamentos diferentes de muitos mamíferos (por exemplo, algumas aves voam, outras não), e a estrutura herdada da classe Animal começa a apresentar inconsistências.
+
+🧠 Sua tarefa:
+Crie a classe abstrata Animal considerando apenas os comportamentos comuns a todos os mamíferos reais.
+
+Modele pelo menos duas classes filhas herdando de Animal corretamente, respeitando o princípio da substituição de Liskov (LSP).
+
+Reflita:
+
+O que acontece ao tentar modelar uma ave com a mesma estrutura?
+
+O seu código continuaria fazendo sentido? Se não, como você resolveria isso com uma nova abstração?
+
+Reestruture o sistema com uma nova hierarquia de classes para as aves, respeitando o LSP e separando o que faz sentido ser herdado daquilo que é específico de cada tipo de animal.

@@ -1,0 +1,17 @@
+Você foi contratado para revisar uma classe chamada Funcionario, que deveria apenas representar um colaborador, mas... ela faz tudo: envia e-mail, imprime contrato, calcula salários, salva no banco, e ainda executa tudo sozinha.
+
+Além disso, os métodos estão grandes e com responsabilidades misturadas dentro deles.
+
+Sua missão é aplicar o Princípio da Responsabilidade Única (SRP) e boas práticas de refatoração.
+
+🛠️ Tarefas:
+Identifique responsabilidades diferentes e crie novas classes:
+
+Ex: RepositorioFuncionario, EmailService, ContratoService, FolhaPagamentoService
+
+Refatore os métodos grandes, separando as partes em métodos menores e com nomes claros.
+
+A classe Funcionario deve apenas conter os dados do colaborador (nome, email, cargo, salário).
+
+Crie uma classe orquestradora chamada ProcessadorDeAdmissao que chama os serviços necessários para executar o processo.
+

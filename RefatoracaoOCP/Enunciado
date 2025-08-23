@@ -1,0 +1,19 @@
+Exercício de Refatoração – Aplicando o Princípio OCP
+Você recebeu uma classe chamada Notificador, responsável por enviar mensagens por diferentes canais de comunicação, como e-mail, SMS, Whatsapp, Telegram dentre outros.
+
+Após analisar sua estrutura atual, percebe-se que ela não segue o Princípio Aberto/Fechado (Open/Closed Principle - OCP), pois exige alterações diretas toda vez que um novo canal é adicionado.
+
+🎯 Seu desafio:
+Refatore a estrutura do código fornecido, aplicando o Princípio OCP. Para isso, siga as instruções abaixo:
+
+Crie uma classe abstrata chamada Notificacao, contendo um método enviar().
+
+Crie pelo menos três subclasses concretas: Email, SMS e Whatsapp, cada uma implementando o método enviar() de forma diferente.
+
+Reestruture o uso da notificação de forma que seja possível adicionar novos tipos sem alterar a lógica existente.
+
+Evite o uso de estruturas condicionais (como if ou switch) para selecionar o tipo de notificação.
+
+💡 Dica:
+Ao final, sua solução deve permitir que o tipo de notificação seja instanciado e utilizado por meio de uma referência genérica(classe abstrata), mantendo a flexibilidade e respeitando o OCP.
+
