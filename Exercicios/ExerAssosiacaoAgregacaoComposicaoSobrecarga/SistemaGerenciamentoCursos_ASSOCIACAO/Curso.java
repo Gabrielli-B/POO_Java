@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.SistemaGerenciamentoCursos_ASSOCIACAO;
+package Estudos.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.SistemaGerenciamentoCursos_ASSOCIACAO;
 
 import java.util.ArrayList;
 import java.util.List;

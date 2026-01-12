@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerENUM.DiasSemana;
+package Estudos.Exercicios.ExerENUM.DiasSemana;
 
 public enum DiaDaSemana {
     SEGUNDA("Segunda"),

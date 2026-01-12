@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerENUM.SistemaLaboratorio;
+package Estudos.Exercicios.ExerENUM.SistemaLaboratorio;
 
 public class Computador {
     private TipoComputador tipoComputador;

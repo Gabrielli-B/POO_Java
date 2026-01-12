@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerENUM.ModalidadeEntrega;
+package Estudos.Exercicios.ExerENUM.ModalidadeEntrega;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package POO_IF_Aulas.TratamentoExcecoes.GerenciamentoCafeteria;
+package Estudos.TratamentoExcecoes.GerenciamentoCafeteria;
 
 public class Bolo implements Produto,Descontavel{
     String nome = "BOLO";

@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.Exer_TodosConceitosAplicados.SistemaPedidosLanchonete;
+package Estudos.Exercicios.Exer_TodosConceitosAplicados.SistemaPedidosLanchonete;
 
 public enum CupomDesconto {
     NENHUM(0.0),

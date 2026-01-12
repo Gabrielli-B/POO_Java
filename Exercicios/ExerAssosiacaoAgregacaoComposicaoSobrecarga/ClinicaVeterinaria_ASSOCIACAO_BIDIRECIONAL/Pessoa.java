@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.ClinicaVeterinaria_ASSOCIACAO_BIDIRECIONAL;
+package Estudos.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.ClinicaVeterinaria_ASSOCIACAO_BIDIRECIONAL;
 
 import java.util.ArrayList;
 import java.util.List;

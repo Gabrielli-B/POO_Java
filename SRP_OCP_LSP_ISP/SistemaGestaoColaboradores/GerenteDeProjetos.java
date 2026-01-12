@@ -1,4 +1,4 @@
-package POO_IF_Aulas.SRP_OCP_LSP_ISP.SistemaGestaoColaboradores;
+package Estudos.SRP_OCP_LSP_ISP.SistemaGestaoColaboradores;
 
 public class GerenteDeProjetos extends Funcionario implements GerenciaProjetos,OrganizaSprint{
     protected GerenteDeProjetos(String nome, String cargo, Nivel nivel) {

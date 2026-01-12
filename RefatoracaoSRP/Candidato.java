@@ -1,4 +1,4 @@
-package POO_IF_Aulas.RefatoracaoSRP;
+package Estudos.RefatoracaoSRP;
 
 public class Candidato {
     private String nome;

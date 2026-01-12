@@ -1,4 +1,4 @@
-package POO_IF_Aulas.SRP_OCP_LSP_ISP.SistemaGestaoColaboradores;
+package Estudos.SRP_OCP_LSP_ISP.SistemaGestaoColaboradores;
 
 public class Designer extends Funcionario implements CriarPrototipos,ParticipaDeUX{
     protected Designer(String nome, String cargo, Nivel nivel) {

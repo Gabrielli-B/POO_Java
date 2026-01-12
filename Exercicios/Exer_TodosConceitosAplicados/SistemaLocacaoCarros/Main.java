@@ -1,6 +1,4 @@
-package POO_IF_Aulas.Exercicios.Exer_TodosConceitosAplicados.SistemaLocacaoCarros;
-
-import java.util.Scanner;
+package Estudos.Exercicios.Exer_TodosConceitosAplicados.SistemaLocacaoCarros;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerENUM.StatusPedido;
+package Estudos.Exercicios.ExerENUM.StatusPedido;
 
 import java.util.ArrayList;
 import java.util.List;

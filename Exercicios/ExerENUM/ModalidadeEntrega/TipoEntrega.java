@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerENUM.ModalidadeEntrega;
+package Estudos.Exercicios.ExerENUM.ModalidadeEntrega;
 
 public enum TipoEntrega {
     RETIRADA_LOJA("Retirada na loja"),

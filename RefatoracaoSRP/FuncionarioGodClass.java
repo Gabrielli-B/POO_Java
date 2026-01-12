@@ -1,4 +1,4 @@
-package POO_IF_Aulas.RefatoracaoSRP;
+package Estudos.RefatoracaoSRP;
 import java.time.LocalDate;
 
 public class FuncionarioGodClass {

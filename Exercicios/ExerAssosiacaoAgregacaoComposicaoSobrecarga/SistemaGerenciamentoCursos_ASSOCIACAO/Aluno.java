@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.SistemaGerenciamentoCursos_ASSOCIACAO;
+package Estudos.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.SistemaGerenciamentoCursos_ASSOCIACAO;
 
 public class Aluno {
     private String nome;

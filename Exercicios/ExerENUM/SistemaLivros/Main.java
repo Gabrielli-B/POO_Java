@@ -1,6 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerENUM.SistemaLivros;
-
-import POO_IF_Aulas.Exercicios.ExerENUM.ModalidadeEntrega.TipoEntrega;
+package Estudos.Exercicios.ExerENUM.SistemaLivros;
 
 public class Main {
     public static void main(String[] args) {

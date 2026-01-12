@@ -1,4 +1,4 @@
-package POO_IF_Aulas.TratamentoExcecoes.GerenciamentoCafeteria;
+package Estudos.TratamentoExcecoes.GerenciamentoCafeteria;
 
 import java.util.ArrayList;
 import java.util.List;

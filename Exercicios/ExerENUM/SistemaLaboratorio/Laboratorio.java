@@ -1,6 +1,5 @@
-package POO_IF_Aulas.Exercicios.ExerENUM.SistemaLaboratorio;
+package Estudos.Exercicios.ExerENUM.SistemaLaboratorio;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Laboratorio {

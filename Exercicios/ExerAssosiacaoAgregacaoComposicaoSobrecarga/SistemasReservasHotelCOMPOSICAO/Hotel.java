@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.SistemasReservasHotelCOMPOSICAO;
+package Estudos.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.SistemasReservasHotelCOMPOSICAO;
 
 import java.util.ArrayList;
 import java.util.List;

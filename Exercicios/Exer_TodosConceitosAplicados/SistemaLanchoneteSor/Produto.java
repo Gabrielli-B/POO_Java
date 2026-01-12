@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.Exer_TodosConceitosAplicados.SistemaLanchoneteSor;
+package Estudos.Exercicios.Exer_TodosConceitosAplicados.SistemaLanchoneteSor;
 
 public class Produto {
     private String nome;

@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.PC_Placa_Mae_COMPOSICAO;
+package Estudos.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.PC_Placa_Mae_COMPOSICAO;
 
 public class PlacaMae {
     private String fabricante;

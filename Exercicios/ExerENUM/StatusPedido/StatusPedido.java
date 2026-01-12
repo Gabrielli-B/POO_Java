@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerENUM.StatusPedido;
+package Estudos.Exercicios.ExerENUM.StatusPedido;
 
 public enum StatusPedido {
     PENDENTE("Quase lá! Seu pedido já já será analisado"),

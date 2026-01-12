@@ -1,4 +1,4 @@
-package POO_IF_Aulas.RefatoracaoOCP;
+package Estudos.RefatoracaoOCP;
 
 public class NotificarBadClass {
 

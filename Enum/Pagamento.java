@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Enum;
+package Estudos.Enum;
 
 public class Pagamento {
     private TipoPagamento tipoPagamento;

@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.Exer_TodosConceitosAplicados.SistemaGestaoOficinaMecanica;
+package Estudos.Exercicios.Exer_TodosConceitosAplicados.SistemaGestaoOficinaMecanica;
 
 public class Mecanico {
     private String nome;

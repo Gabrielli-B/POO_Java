@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerENUM.TamanhoCamiseta;
+package Estudos.Exercicios.ExerENUM.TamanhoCamiseta;
 
 public class Camiseta {
     private Tamanho tamanho;

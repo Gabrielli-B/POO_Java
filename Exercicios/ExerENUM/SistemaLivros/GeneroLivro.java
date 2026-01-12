@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerENUM.SistemaLivros;
+package Estudos.Exercicios.ExerENUM.SistemaLivros;
 
 public enum GeneroLivro {
     FICCAO("Ficção"),

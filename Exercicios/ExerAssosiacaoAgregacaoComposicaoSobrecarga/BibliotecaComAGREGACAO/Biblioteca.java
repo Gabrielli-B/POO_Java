@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.BibliotecaComAGREGACAO;
+package Estudos.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.BibliotecaComAGREGACAO;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package POO_IF_Aulas.PrincipioLSP;
+package Estudos.PrincipioLSP;
 
 public class Andorinha extends Aves{
     @Override

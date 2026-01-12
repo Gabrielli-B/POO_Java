@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.AgendaComSOBRECARGA_e_ValidacaoDeContatos;
+package Estudos.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.AgendaComSOBRECARGA_e_ValidacaoDeContatos;
 
 public class Contato {
     private String nome;

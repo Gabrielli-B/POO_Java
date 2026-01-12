@@ -1,4 +1,4 @@
-package POO_IF_Aulas.SRP_OCP_LSP_ISP.SistemaGestaoColaboradores;
+package Estudos.SRP_OCP_LSP_ISP.SistemaGestaoColaboradores;
 
 public abstract class Funcionario {
     protected String nome;

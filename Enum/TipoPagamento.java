@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Enum;
+package Estudos.Enum;
 
 public enum TipoPagamento {
     BOLETO("Boleto"),

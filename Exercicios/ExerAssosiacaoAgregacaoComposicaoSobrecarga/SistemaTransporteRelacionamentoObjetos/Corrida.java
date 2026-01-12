@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.SistemaTransporteRelacionamentoObjetos;
+package Estudos.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.SistemaTransporteRelacionamentoObjetos;
 
 public class Corrida {
     private Motorista motorista;

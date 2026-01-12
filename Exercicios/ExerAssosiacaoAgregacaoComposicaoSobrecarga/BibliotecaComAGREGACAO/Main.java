@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.BibliotecaComAGREGACAO;
+package Estudos.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.BibliotecaComAGREGACAO;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.Exer_TodosConceitosAplicados.SistemaPedidosLanchonete;
+package Estudos.Exercicios.Exer_TodosConceitosAplicados.SistemaPedidosLanchonete;
 
 import java.util.Scanner;
 

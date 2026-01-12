@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.Exer_TodosConceitosAplicados.SistemaLocacaoCarros;
+package Estudos.Exercicios.Exer_TodosConceitosAplicados.SistemaLocacaoCarros;
 
 public enum FormaPagamento {
     CARTAO("Pagamento realizado com cartão"),

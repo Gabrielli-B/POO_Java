@@ -1,4 +1,4 @@
-package POO_IF_Aulas.PrincipioLSP;
+package Estudos.PrincipioLSP;
 
 public class Aves extends Animal{
     @Override

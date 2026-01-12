@@ -1,4 +1,4 @@
-package POO_IF_Aulas.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.SistemasReservasHotelCOMPOSICAO;
+package Estudos.Exercicios.ExerAssosiacaoAgregacaoComposicaoSobrecarga.SistemasReservasHotelCOMPOSICAO;
 
 public class Main {
     public static void main(String[] args) {

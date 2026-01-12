@@ -1,7 +1,4 @@
-package POO_IF_Aulas.RefatoracaoOCP;
-
-import java.util.ArrayList;
-import java.util.List;
+package Estudos.RefatoracaoOCP;
 
 public class Main {
     public static void main(String[] args) {
